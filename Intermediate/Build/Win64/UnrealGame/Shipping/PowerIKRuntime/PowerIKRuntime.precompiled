@@ -1,0 +1,17 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\Module.PowerIKRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\AnimNode_PowerIK.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\AnimNode_PowerIK_Ground.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\AnimNode_PowerIK_Walk.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKRuntimeModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIK_UnrealCore.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\RigUnit_PowerIK.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIK.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKCore.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKGround.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKInit.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKMath.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PowerIKRuntime\\PowerIKSolve.cpp.obj"
+	]
+}
